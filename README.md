@@ -8,7 +8,7 @@
 <br>
 🕸 I've also created two react websites - <a href="https://shauna-portfolio.herokuapp.com">my porfolio</a> and <a href="http://apstro.co.uk/">apstro.co.uk</a>
 <br>
-🙇🏻‍♀️ I'm currently learning backend technologies like Python, MongoDB and SQL as I want to become a fullstack developer 
+🙇🏻‍♀️ I'm currently learning backend technologies like Node.js, MongoDB and SQL as I want to become a fullstack developer 
 <br>
 🤍 React Native is my favorite language (so far!) 
 <br>
