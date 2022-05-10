@@ -2,18 +2,17 @@
 ![](https://komarev.com/ghpvc/?username=shaunapenistone&color=ff69b4&style=plastic)
 
 ## 👩🏻‍💻 About Me 
-🚀 I'm a self taught developer who started my coding journey around a year ago
+🚀 I'm a self taught developer who started my coding journey in 2021
 <br>
-🪐 Since then I've created a React Native Astrology Social Media app which is pending approval in the app store 
+🙇🏻‍♀️ I work for Jisc as a Software Engineer - you can check out my professional GitHub <a href="https://github.com/shaunajisc">here</a>
 <br>
-🕸 I've also created two react websites - <a href="https://shauna-portfolio.herokuapp.com">my porfolio</a> and <a href="http://apstro.co.uk/">apstro.co.uk</a>
+🕸 In my free time I enjoy creating websites, you can take a look at - <a href="https://shauna-portfolio.herokuapp.com">my porfolio</a> and another website I've created - <a href="http://apstro.co.uk/">apstro.co.uk</a>
 <br>
-🙇🏻‍♀️ I'm currently learning backend technologies like Node.js, MongoDB and SQL as I want to become a fullstack developer 
+🤍 I'm a fullstack developer with experience in React, JavaScript, React Native, CSS, HTML, Prisma, Serverless, Firebase and Firestore
 <br>
-🤍 React Native is my favorite language (so far!) 
+🔮 In the future I plan on learning more about AWS, UX, SEO and Web Design
 <br>
-✉️ You can reach me on shauna.penistone@hotmail.com regarding job opportunities 
+✉️ Feel free to <a href="https://www.linkedin.com/in/shauna-penistone-aa3437174/">reach out</a> for any advice on how to break into the tech industry with no experince, degree or qualifications 
 <br>
-🐶 I spend my free time going on walks with my Yorkshire Terrier 
 
 
