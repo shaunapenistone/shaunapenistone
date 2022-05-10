@@ -12,7 +12,7 @@
 <br>
 🔮 In the future I plan on learning more about AWS, UX, SEO and Web Design
 <br>
-✉️ Feel free to <a href="https://www.linkedin.com/in/shauna-penistone-aa3437174/">reach out</a> for any advice on how to break into the tech industry with no experince, degree or qualifications 
+✉️ I'm passionate about socioeconomic and gender diversity in the tech indusry so feel free to <a href="https://www.linkedin.com/in/shauna-penistone-aa3437174/">reach out</a> for any advice on how to break into the tech industry with no experience, degree or qualifications 
 <br>
 
 
