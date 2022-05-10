@@ -4,7 +4,7 @@
 ## 👩🏻‍💻 About Me 
 🚀 I'm a self taught developer who started my coding journey in 2021
 <br>
-🙇🏻‍♀️ I work for Jisc as a Software Engineer - you can check out my professional GitHub <a href="https://github.com/shaunajisc">here</a>
+💪🏻 I work for Jisc as a Software Engineer - you can check out my professional GitHub <a href="https://github.com/shaunajisc">here</a>
 <br>
 🕸 In my free time I enjoy creating websites, you can take a look at - <a href="https://shauna-portfolio.herokuapp.com">my porfolio</a> and another website I've created - <a href="http://apstro.co.uk/">apstro.co.uk</a>
 <br>
